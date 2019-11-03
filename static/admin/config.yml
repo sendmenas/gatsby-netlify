@@ -1,5 +1,6 @@
 backend:
-  name: gatsby-netlify
+  name: github
+  repo: sendmenas/gatsby-netlify
 media_folder: static/assets
 public_folder: assets
 collections:
